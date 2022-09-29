@@ -12,6 +12,6 @@ namespace laborator19_Catalog_.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int Age { get; set; }
-        public Adresse Adresse { get; set; }    
+        public Address Adresse { get; set; }    
     }
 }

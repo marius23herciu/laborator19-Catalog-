@@ -64,7 +64,7 @@ SeedDb();
         FirstName = "Ionut",
         LastName = "Antonescu",
         Age = 20,
-        Adresse=new Adresse
+        Adresse=new Address
         {
             City="Bucuresti",
             Street="Obor",
@@ -77,7 +77,7 @@ SeedDb();
         FirstName = "Ioana",
         LastName = "Popescu",
         Age = 20,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Bucuresti",
             Street = "Mare",
@@ -90,7 +90,7 @@ SeedDb();
         FirstName = "Dan",
         LastName = "Bitman",
         Age = 45,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Bucuresti",
             Street = "Revolutiei",
@@ -103,7 +103,7 @@ SeedDb();
         FirstName = "Crina",
         LastName = "Manea",
         Age = 30,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Iasi",
             Street = "Pacurari",
@@ -116,7 +116,7 @@ SeedDb();
         FirstName = "George",
         LastName = "Trifan",
         Age = 22,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Timisoara",
             Street = "Bega",
@@ -129,7 +129,7 @@ SeedDb();
         FirstName = "Paul",
         LastName = "Dobre",
         Age = 18,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Arad",
             Street = "Viilor",
@@ -142,7 +142,7 @@ SeedDb();
         FirstName = "Diana",
         LastName = "Velescu",
         Age = 25,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Ramnicu Valcea",
             Street = "Oltulu",
@@ -155,7 +155,7 @@ SeedDb();
         FirstName = "John",
         LastName = "Carpenter",
         Age = 21,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Newcastle",
             Street = "Harbour",
@@ -168,7 +168,7 @@ SeedDb();
         FirstName = "Ionut",
         LastName = "Antonescu",
         Age = 22,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Paris",
             Street = "Lumiere",
@@ -181,7 +181,7 @@ SeedDb();
         FirstName = "Lucian",
         LastName = "Coman",
         Age = 31,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Constanta",
             Street = "Portului",
@@ -194,7 +194,7 @@ SeedDb();
         FirstName = "Andreea",
         LastName = "Caliman",
         Age = 35,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Galati",
             Street = "Dunarii",
@@ -207,7 +207,7 @@ SeedDb();
         FirstName = "George",
         LastName = "Antonescu",
         Age = 20,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Cluj",
             Street = "Transilvaniei",
@@ -220,7 +220,7 @@ SeedDb();
         FirstName = "Andreea",
         LastName = "Coman",
         Age = 18,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Craiova",
             Street = "Universitatii",
@@ -233,7 +233,7 @@ SeedDb();
         FirstName = "Razvan",
         LastName = "Florea",
         Age = 25,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Suceava",
             Street = "Bucovinei",
@@ -246,7 +246,7 @@ SeedDb();
         FirstName = "Gheorghe",
         LastName = "Gherghel",
         Age = 42,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Madrid",
             Street = "Huevos",
@@ -259,7 +259,7 @@ SeedDb();
         FirstName = "Izabela",
         LastName = "Popa",
         Age = 21,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Roma",
             Street = "Pizzeria",
@@ -272,7 +272,7 @@ SeedDb();
         FirstName = "Sebi",
         LastName = "Popa",
         Age = 21,
-        Adresse = new Adresse
+        Adresse = new Address
         {
             City = "Brasov",
             Street = "Cerbului",

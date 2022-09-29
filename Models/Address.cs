@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace laborator19_Catalog_.Models
 {
-    public class Adresse
+    public class Address
     {
         public int? Id { get; set; }
         public string City { get; set; }

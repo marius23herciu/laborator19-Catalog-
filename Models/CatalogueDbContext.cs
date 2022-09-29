@@ -10,7 +10,7 @@ namespace laborator19_Catalog_.Models
     public class CatalogueDbContext: DbContext
     {
         public DbSet<Student> Students { get; set; }
-        public DbSet<Adresse> Adresses { get; set; }
+        public DbSet<Address> Adresses { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
