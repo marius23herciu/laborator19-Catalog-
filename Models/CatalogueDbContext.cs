@@ -11,8 +11,11 @@ namespace laborator19_Catalog_.Models
     {
         public DbSet<Student> Students { get; set; }
         public DbSet<Address> Adresses { get; set; }
+        public DbSet<Mark> Marks { get; set; }
+        public DbSet<Subject> Subjects  { get; set; }
+        public DbSet<Teacher> Teachers  { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-NCBKPTR\SQLEXPRESS;Initial Catalog=Lab19(Catalogue);Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
         }
