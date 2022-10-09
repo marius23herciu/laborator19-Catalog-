@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-using laborator19_Catalog_.Models;
+
 using Microsoft.Extensions.Configuration;
 using Microsoft.VisualBasic;
 using System.Globalization;
